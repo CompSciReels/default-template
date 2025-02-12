@@ -1,7 +1,7 @@
 # Restore History Tabs Button
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/Restore-History-Tabs-Button?logo=star&logoColor=black)](https://github.com/CompSciReels/Restore-History-Tabs-Button/stargazers "stars")
-[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/CompSciReels/Restore-History-Tabs-Button?logo=issue)](https://github.com/CompSciReels/Restore-History-Tabs-Button/issues "issues")
+<!--[![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/Gray-Horizon-Odyssey?logo=star&logoColor=black)](https://github.com/CompSciReels/Gray-Horizon-Odyssey/stargazers "stars")
+[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/CompSciReels/gray-horizon-odyssey?logo=issue)](https://github.com/CompSciReels/gray-horizon-odyssey/issues "issues")-->
 
 <!--Need a pointless program to kill some time? You're in the right place.-->
 
@@ -23,5 +23,5 @@ If you like my work, give it a ⭐ and share it with your friends!
 
 ## 👨‍💻 Technologies 
 
-[![Eclipse](https://custom-icon-badges.demolab.com/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org/)
-[![Java](https://custom-icon-badges.demolab.com/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/en/)
+<!--[![Eclipse](https://custom-icon-badges.demolab.com/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org/)
+[![Java](https://custom-icon-badges.demolab.com/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/en/)-->
