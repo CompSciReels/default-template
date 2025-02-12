@@ -1,6 +1,6 @@
 # Restore History Tabs Button
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/Restore-History-Tabs-Button?logo=star&logoColor=black)](https://github.com/CompSciReels/General-Programs/stargazers "stars")
+[![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/Restore-History-Tabs-Button?logo=star&logoColor=black)](https://github.com/CompSciReels/Restore-History-Tabs-Button/stargazers "stars")
 [![issues](https://custom-icon-badges.demolab.com/github/issues-raw/CompSciReels/General-Programs?logo=issue)](https://github.com/CompSciReels/General-Programs/issues "issues")
 
 Need a pointless program to kill some time? You're in the right place. 
