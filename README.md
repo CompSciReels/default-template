@@ -1,7 +1,7 @@
 # Default Template
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/restore-history-tabs-button?logo=star&logoColor=black)](https://github.com/CompSciReels/Restore-History-Tabs-Button/stargazers "stars")
-[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/CompSciReels/restore-history-tabs-button?logo=issue)](https://github.com/CompSciReels/restore-history-tabs-button/issues "issues")
+[![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/default-template?logo=star&logoColor=black)](https://github.com/CompSciReels/default-template/stargazers "stars")
+[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/CompSciReels/default-template?logo=issue)](https://github.com/CompSciReels/default-template/issues "issues")
 
 <!--Need a pointless program to kill some time? You're in the right place.-->
 
