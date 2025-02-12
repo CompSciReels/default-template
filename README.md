@@ -3,7 +3,7 @@
 [![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/Restore-History-Tabs-Button?logo=star&logoColor=black)](https://github.com/CompSciReels/Restore-History-Tabs-Button/stargazers "stars")
 [![issues](https://custom-icon-badges.demolab.com/github/issues-raw/CompSciReels/Restore-History-Tabs-Button?logo=issue)](https://github.com/CompSciReels/Restore-History-Tabs-Button/issues "issues")
 
-Need a pointless program to kill some time? You're in the right place. 
+<!--Need a pointless program to kill some time? You're in the right place.-->
 
 ## 💬 Questions?
 
