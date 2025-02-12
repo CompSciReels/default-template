@@ -1,6 +1,6 @@
 # Restore History Tabs Button
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/compscireels?logo=star&logoColor=black)](https://github.com/CompSciReels/Restore-History-Tabs-Button/stargazers "stars")
+[![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/restore-history-tabs-button?logo=star&logoColor=black)](https://github.com/CompSciReels/Restore-History-Tabs-Button/stargazers "stars")
 [![issues](https://custom-icon-badges.demolab.com/github/issues-raw/CompSciReels/gray-horizon-odyssey?logo=issue)](https://github.com/CompSciReels/gray-horizon-odyssey/issues "issues")-->
 
 <!--Need a pointless program to kill some time? You're in the right place.-->
