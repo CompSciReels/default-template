@@ -1,4 +1,4 @@
-# Default Template
+# Restore Button
 
 [![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/default-template?logo=star&logoColor=black)](https://github.com/CompSciReels/default-template/stargazers "stars")
 [![issues](https://custom-icon-badges.demolab.com/github/issues-raw/CompSciReels/default-template?logo=issue)](https://github.com/CompSciReels/default-template/issues "issues")
